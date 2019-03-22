@@ -1,0 +1,45 @@
+body{
+    background: url(images/328933-svetik.jpg) no-repeat center center;
+    background-size: cover;
+    font font-weight:500;
+    
+}
+
+h1{
+    color:#03138d;
+    padding:20px;
+    background-color:#ffffff;
+    font-size: 30;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+h2 {
+    
+    color:#03138d;
+    background-color: #ffffff;
+    font-size: 26;
+}
+p{
+    
+    color:#03138d;
+    background-color:#ffffff;
+    font-weight:500;
+    font-size:24;
+   font-family: 'Lobster', cursive;
+}
+
+
+
+.gras{
+    
+    font-weight:bold;
+}
+
+.centrer {
+  text-align: center;
+}
+
+.iframe{
+    
+    background-color: #ffffff
+}
